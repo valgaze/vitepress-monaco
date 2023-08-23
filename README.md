@@ -1,3 +1,7 @@
+Now working per guidance: https://github.com/vuejs/vitepress/issues/2832#issuecomment-1689498631
+
+---
+
 ## Setup
 
 ```
