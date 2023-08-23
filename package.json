@@ -1,0 +1,29 @@
+{
+  "name": "vitepress-monaco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valgaze/vitepress-monaco.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valgaze/vitepress-monaco/issues"
+  },
+  "homepage": "https://github.com/valgaze/vitepress-monaco#readme",
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.4"
+  },
+  "dependencies": {
+    "monaco-editor": "^0.41.0"
+  }
+}
